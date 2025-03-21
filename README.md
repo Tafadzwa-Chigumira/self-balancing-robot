@@ -1,4 +1,4 @@
-# Self-Balancing Robot
+# Self-Balancing Robot (Work in Progress)
 
 ## 🎓 School Project
 This Self-Balancing Robot is a university project designed to explore embedded systems, control theory, and robotics through real-world implementation. The project is a collaborative effort by students to apply theoretical knowledge in a hands-on engineering challenge.
